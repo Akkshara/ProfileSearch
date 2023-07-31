@@ -36,3 +36,28 @@
     transform: rotate(360deg);
   }
 }
+
+
+.dark-mode {
+  background-color: #343a40;  
+  color: #ffffff} 
+
+
+.dark-mode .table-container {
+  background-color: #343a40; 
+  background-color:#282c34;
+  color: #ffffff; 
+}
+
+.dark-mode th,
+.dark-mode td 
+.dark-mode tr{
+ 
+  background: #343a40;
+ }
+
+ .table-container {
+  width: 70%; 
+  margin: 0 auto; 
+  border-radius: 10px;
+}
